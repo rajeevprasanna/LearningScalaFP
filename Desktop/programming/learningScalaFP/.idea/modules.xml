@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/learningscalafp.iml" filepath="$PROJECT_DIR$/.idea/modules/learningscalafp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/LearningScalaFP.iml" filepath="$PROJECT_DIR$/.idea/modules/LearningScalaFP.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/learningscalafp-build.iml" filepath="$PROJECT_DIR$/.idea/modules/learningscalafp-build.iml" />
     </modules>
   </component>
